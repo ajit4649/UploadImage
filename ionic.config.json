@@ -1,0 +1,8 @@
+{
+  "name": "devdactic-imageupload-2",
+  "app_id": "a7302012",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
